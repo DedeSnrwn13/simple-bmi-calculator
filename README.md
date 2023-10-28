@@ -1,5 +1,7 @@
 # kalkulator_bmi_sederhana
 
+![image](https://github.com/DedeSnrwn13/simple-bmi-calculator/assets/46914100/bf8fdb8e-a9c9-411d-8732-afb346cad48a)
+
 A new Flutter project.
 
 ## Getting Started
